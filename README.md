@@ -32,4 +32,5 @@ Start the development server:
 ```npm start```
 
 How It Works
+
 Users can select places from a pre-populated list of famous destinations. Once selected, these destinations are added to a personal list of places the user wants to visit. If a user decides to remove a place from their list, they can confirm the action via a modal. The app uses Tailwind CSS for styling and provides smooth animations for hover interactions.
